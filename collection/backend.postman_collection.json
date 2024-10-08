@@ -1,0 +1,27 @@
+{
+	"info": {
+		"_postman_id": "6b809de7-1879-407f-8e09-347fa045a627",
+		"name": "backend",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "26476480"
+	},
+	"item": [
+		{
+			"name": "awdwad/dawdaw",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "awdwad/dawdaw",
+					"host": [
+						"awdwad"
+					],
+					"path": [
+						"dawdaw"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
